@@ -1,0 +1,13 @@
+{
+  "name": "hello-workflow",
+  "version": "1.0.0",
+  "description": "An example for Alfred Workflow Package Manager",
+  "author": {
+    "name": "Adam Butler",
+    "email": "adam@lab.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adambutler/hello-workflow.git"
+  }
+}
